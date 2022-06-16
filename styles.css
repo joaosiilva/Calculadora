@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+fieldset { 
+    background-color: aliceblue;
+    width: 400px;
+    display: block;
+    margin: auto;
+    height: 230px;
+    border-radius: 10px;
+}
+
+input {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+div {
+    display: block; 
+    margin-top: 20px; 
+    text-align: center; 
+}
+
+.resultado {
+    border-style: solid; 
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
